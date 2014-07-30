@@ -96,4 +96,5 @@
             <size key="landscapeSize" width="568" height="320"/>
         </simulatedScreenMetrics>
     </simulatedMetricsContainer>
+    <color key="tintColor" red="0.48469358682632446" green="0.25674349069595337" blue="0.77194243669509888" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
 </document>
